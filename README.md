@@ -1,6 +1,4 @@
-Aqui está o conteúdo formatado em Markdown para você copiar e colar diretamente no seu arquivo README.md.
 
-Markdown
 # Estudo de Seleção de Variáveis e Otimização de KS
 
 Este estudo implementa um pipeline de **Feature Selection** robusto, projetado para cenários com alta dimensionalidade (100+ variáveis). O foco principal é a eliminação de ruído estatístico para evitar o overfitting e maximizar o ganho de **KS (Kolmogorov-Smirnov)** em bases de teste.
